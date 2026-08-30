@@ -1,4 +1,4 @@
 git init 
 git add .
 git commit -m "Update"
-git push origin MAIN
+git push origin MASTER
